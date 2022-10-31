@@ -1,0 +1,33 @@
+/* {
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+.logo img{
+   
+    width: 280px;
+
+}
+
+.nav-items ul{
+    display: flex;
+    
+}
+.nav-items ul li{
+    display: flex;
+    margin: 50px 10px;
+    cursor: pointer;
+}
+
+.nav-items ul li:hover{
+    background-color: blueviolet;
+} */
+
+.navbar-items ul li{
+    display: flex;
+    justify-content: center;
+}
